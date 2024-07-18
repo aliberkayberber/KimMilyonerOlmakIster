@@ -17,7 +17,7 @@ namespace KimMilyonerOlmakIster
             System.Console.Write("Cevabınız: ");
             System.Console.WriteLine("");
             string reply1 = Console.ReadLine();
-            reply1 = reply1.ToLower();
+            reply1 = reply1.ToLower(); // küçük harfe çeviriliyor
 
             if (reply1 == "b")
             {   
@@ -36,7 +36,7 @@ namespace KimMilyonerOlmakIster
             System.Console.WriteLine("");
             System.Console.Write("Cevabınız: ");
             string reply2 = Console.ReadLine();
-            reply2 = reply2.ToLower();
+            reply2 = reply2.ToLower(); // küçük harfe çeviriliyor
 
             if (reply2 == "a")
             {
@@ -49,7 +49,7 @@ namespace KimMilyonerOlmakIster
                 falseReply++;
             }
             
-            if(trueReply == 1 && falseReply ==1) 
+            if(trueReply == 1 && falseReply ==1)  // Kazanama ihtimali var mı diye bakıyorum
             {
                 System.Console.WriteLine("3) '' 1984'' olarak bilinen ünlü romanın yazarı kimdir? ");
                 System.Console.WriteLine("");
@@ -57,7 +57,7 @@ namespace KimMilyonerOlmakIster
                 System.Console.WriteLine("");
                 System.Console.Write("Cevabınız: ");
                 string reply3 = Console.ReadLine();
-                reply3 = reply3.ToLower();
+                reply3 = reply3.ToLower(); // küçük harfe çeviriliyor
 
                 if (reply3 == "a")
                 {
