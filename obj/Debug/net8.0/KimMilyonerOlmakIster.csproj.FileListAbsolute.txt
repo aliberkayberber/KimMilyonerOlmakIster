@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.deps.json
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.dll
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.pdb
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.dll
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/refint/KimMilyonerOlmakIster.dll
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.pdb
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/ref/KimMilyonerOlmakIster.dll
