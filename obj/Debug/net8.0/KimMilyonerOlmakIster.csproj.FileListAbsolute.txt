@@ -12,3 +12,4 @@
 /Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.pdb
 /Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.genruntimeconfig.cache
 /Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/ref/KimMilyonerOlmakIster.dll
+/Users/aliberkayberber/Documents/Pratikler/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.sourcelink.json
